@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PeterBartos157
-- 👀 I’m interested in Basketball.
-- 🌱 I’m currently studying at STU FIIT.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Data Science, AI & Web Technologies.
+- 💼 I’m currently studying at STU FIIT.
+- (っ'-')╮=͟͟͞͞🏀 I love to play Basketball.
+- 📫 How to reach me: peterbartos17@gmail.com
 
 <!---
 PeterBartos157/PeterBartos157 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
