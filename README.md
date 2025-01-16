@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeterBartos157
 - 👀 I’m interested in Data Science, AI & Web Technologies.
-- 💼 I’m currently studying at STU FIIT.
+- 💼 I’m currently studying for my Engineering degree at STU FIIT.
 - (っ'-')╮=͟͟͞͞🏀 I love to play Basketball.
 - 📫 How to reach me: peterbartos17@gmail.com
 
